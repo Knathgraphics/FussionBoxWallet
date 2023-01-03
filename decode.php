@@ -1,0 +1,6 @@
+<?php
+
+echo base64_decode('Y2xheWluZyxhcGljZXMscGVuc2VlLGFpZGFuY2Usb3BhbGluZSxwYXVzZXJzLHBlcmR1ZSxyYW10aWwsZGlyZWN0cyxlcGhlbGlzLGdseWNpbixoYW5nYXJz');
+
+
+?>
